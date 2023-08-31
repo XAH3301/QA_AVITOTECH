@@ -34,7 +34,7 @@ https://docs.google.com/spreadsheets/d/1BYTqvGu4PzVsTCWhyOFbSxyyG7rWR7lJ-JI0OTEy
     ```
 
 
-4. Перейдите в папку tasks и запустите тесты
-    ```sh
-   
-    ```
+4. Перейдите AQATask2.py и запустите тесты
+
+#СПАСИБО ЗА ВНИМАНИЕ)
+ 
