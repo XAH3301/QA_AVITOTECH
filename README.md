@@ -16,7 +16,7 @@
 - Со страницы объявления
 - Со страницы поиска
 
-Ссылка на Google таблицу
+Ссылка на тест-кейсы
 https://docs.google.com/spreadsheets/d/1BYTqvGu4PzVsTCWhyOFbSxyyG7rWR7lJ-JI0OTEyYX8/edit?usp=sharing
 
 ### Задание 2. Автоматизация позитивного тест-кейса
